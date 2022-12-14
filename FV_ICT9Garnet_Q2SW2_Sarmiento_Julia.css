@@ -1,0 +1,30 @@
+body{
+	background-image: url(CAT.JPG);
+	background-size: contain;
+}
+h1{
+	background-color: #FFC9EB;
+	text-align:center;
+}
+h2{
+	border-style: dashed;
+	border-color: #C5908E;
+	font-size: xx-large;
+}
+table{
+	border-color: #C6AEC7;
+	margin-right: 80px;
+	margin-left: 205px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+
+}
+.image{
+	text-decoration: underline;
+}
+.breed{
+	text-decoration: underline;
+}
+.description{
+	text-decoration: underline;
+}
